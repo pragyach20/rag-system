@@ -1,0 +1,21 @@
+﻿FICTIONAL DEMO COMPANY KNOWLEDGE BASE
+
+IMPORTANT: All information in this file is invented for software demonstration.
+
+Company Overview
+Northstar Learning Labs is a fictional training company used to demonstrate a Retrieval-Augmented Generation application.
+
+Training Programs
+The fictional company offers three example programs: Python Fundamentals, Data Analytics Essentials, and Generative AI Basics.
+
+Example Schedule
+For this demonstration, training sessions run Monday through Friday, from 9:00 AM to 5:00 PM.
+
+Enrollment Process
+A fictional learner selects a program, completes a registration form, and receives a confirmation email after registration.
+
+Learning Support
+Learners can consult the program guide, review practice exercises, and submit course questions to the fictional support team.
+
+Demonstration Policy
+This sample contains no real company policies, actual contact details, or personal information. It is intended only for testing retrieval and question answering.
